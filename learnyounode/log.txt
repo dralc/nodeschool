@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /Projects/nodeschool/learnyounode</title>
+ </head>
+ <body>
+<h1>Index of /Projects/nodeschool/learnyounode</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/Projects/nodeschool/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="1.js">1.js</a>                   </td><td align="right">24-Jul-2014 14:36  </td><td align="right"> 27 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="2.js">2.js</a>                   </td><td align="right">05-Jan-2015 16:30  </td><td align="right">140 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="3.js">3.js</a>                   </td><td align="right">26-Sep-2014 17:22  </td><td align="right">240 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="4.js">4.js</a>                   </td><td align="right">12-Jan-2015 15:36  </td><td align="right">301 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="5.js">5.js</a>                   </td><td align="right">12-Jan-2015 16:09  </td><td align="right">336 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="6a.js">6a.js</a>                  </td><td align="right">12-Jan-2015 17:10  </td><td align="right">433 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="6b.js">6b.js</a>                  </td><td align="right">12-Jan-2015 17:00  </td><td align="right">238 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="7.js">7.js</a>                   </td><td align="right">13-Jan-2015 16:52  </td><td align="right">496 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="fileToRead.txt">fileToRead.txt</a>         </td><td align="right">05-Jan-2015 16:37  </td><td align="right">  7 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/unknown.gif" alt="[   ]"></td><td><a href="log.json">log.json</a>               </td><td align="right">13-Jan-2015 16:02  </td><td align="right">2.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="log.txt">log.txt</a>                </td><td align="right">13-Jan-2015 16:10  </td><td align="right">  0 </td><td>&nbsp;</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
