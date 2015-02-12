@@ -1,0 +1,11 @@
+mixin dump(list)
+    table
+        each val, key in list
+            tr
+                td= key
+                td= val
+
+            
+            
+-var data = {a: 1, b: 2, c: 3}
++dump(data)
