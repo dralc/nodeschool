@@ -3,9 +3,14 @@ mixin dump(list)
         each val, key in list
             tr
                 td= key
-                td= val
+                
+                if typeof val == 'object' && val.length == undefined
+                    td 
+                        +dump(val)
+                else
+                    td= val
 
             
             
--var data = {a: 1, b: 2, c: 3}
+-var data = {a: 1, b: ['b1', 'b2'], c: {d: 3}}
 +dump(data)
